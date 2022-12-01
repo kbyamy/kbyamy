@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbyamy&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbyamy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kbyamy&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **kbyamy/kbyamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
